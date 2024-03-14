@@ -1,0 +1,21 @@
+{
+    "token": "TOKEN",
+    "guilds": [
+        1234,
+        5678
+    ],
+    "servers": [
+        {
+            "name":"SERVER_NAME_1",
+            "start_script":"NAME OF THE START SCRIPT",
+            "path_to_server":"PATH TO THE SERVER",
+            "stop_command":"COMMAND TO STOP THE SERVER WITHIN THE CONSOLE"
+        }, 
+        {
+            "name":"SERVER_NAME_2",
+            "start_script":"NAME OF THE START SCRIPT",
+            "path_to_server":"PATH TO THE SERVER",
+            "stop_command":"COMMAND TO STOP THE SERVER WITHIN THE CONSOLE"
+        }
+    ]
+}

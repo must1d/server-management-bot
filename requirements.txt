@@ -1,0 +1,5 @@
+discord
+libtmux
+psutil
+matplotlib
+seaborn
