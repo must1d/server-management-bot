@@ -1,5 +1,5 @@
-discord
-libtmux
-psutil
-matplotlib
-seaborn
+discord=2.3.2
+libtmux=0.32.0
+psutil=5.9.8
+matplotlib=3.8.3
+seaborn=0.13.2
